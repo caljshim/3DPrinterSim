@@ -1,0 +1,6 @@
+W:\3DPrinterSim\CMakeFiles\3.26.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.AssemblyReference.cache
+W:\3DPrinterSim\CMakeFiles\3.26.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.CoreCompileInputs.cache
+W:\3DPrinterSim\CMakeFiles\3.26.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.exe
+W:\3DPrinterSim\CMakeFiles\3.26.3\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.pdb
+W:\3DPrinterSim\CMakeFiles\3.26.3\CompilerIdCSharp\CompilerIdCSharp.exe
+W:\3DPrinterSim\CMakeFiles\3.26.3\CompilerIdCSharp\CompilerIdCSharp.pdb

@@ -1,0 +1,10 @@
+W:/3DPrinterSim/CMakeFiles/Experimental.dir
+W:/3DPrinterSim/CMakeFiles/Nightly.dir
+W:/3DPrinterSim/CMakeFiles/Continuous.dir
+W:/3DPrinterSim/CMakeFiles/NightlyMemoryCheck.dir
+W:/3DPrinterSim/CMakeFiles/RUN_TESTS.dir
+W:/3DPrinterSim/CMakeFiles/ALL_BUILD.dir
+W:/3DPrinterSim/CMakeFiles/ZERO_CHECK.dir
+W:/3DPrinterSim/Tests/CMakeFiles/CommTest.dir
+W:/3DPrinterSim/Tests/CMakeFiles/RUN_TESTS.dir
+W:/3DPrinterSim/Tests/CMakeFiles/ALL_BUILD.dir
